@@ -5,8 +5,6 @@ Learn what libraries we need for AI API calls.
 from openai import OpenAI
 import os
 
-import openai
-
 """
 Task 2: Initialize the OpenAI Client
 Learn how to connect to OpenAI's servers.
