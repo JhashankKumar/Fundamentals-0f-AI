@@ -9,3 +9,4 @@ chromadb
 numpy
 chromadb
 langchain-openai
+langchain-mcp-adapters
